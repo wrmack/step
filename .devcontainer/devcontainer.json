@@ -52,8 +52,8 @@
 	// Adding host requirements so that there is no need to manually select the
 	// machine to run on all the time
 	"hostRequirements": {
-		"storage": "40gb",
-		"cpus": 4
+		"storage": "15gb",
+		"cpus": 2
 	},
 
 	"features": {
@@ -122,7 +122,7 @@
 				"cweijan.vscode-database-client2",
 
 				// Rewarp lines with Alt+Q or Cmd+Q
-				"stkb.rewrap",
+				"stkb.rewrap"
     		]
 		},
 		"devpod": {
