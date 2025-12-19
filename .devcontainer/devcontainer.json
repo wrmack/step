@@ -52,7 +52,7 @@
 	// Adding host requirements so that there is no need to manually select the
 	// machine to run on all the time
 	"hostRequirements": {
-		"storage": "15gb",
+		"storage": "20gb",
 		"cpus": 2
 	},
 
