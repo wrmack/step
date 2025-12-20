@@ -53,7 +53,7 @@
 	// machine to run on all the time
 	"hostRequirements": {
 		"storage": "40gb",
-		"cpus": 2
+		"cpus": 4
 	},
 
 	"features": {
